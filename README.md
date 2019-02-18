@@ -20,7 +20,7 @@
 <li>Iliopsoas <a href="#iliopsoas-funktioner"> - G&aring; till </a></li>
 <li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
 <li>Pectoralis Major <a href="#pectoralismajor-funktioner">- G&aring; till</a></li>
-<li>Pectoralis Minor</li>
+<li>Pectoralis Minor <a href="#pectoralisminor-funktioner"> - Gå till</a></li>
 <li>Levator Scapulae</li>
 <li>Rhomboideii</li>
 <li>Trapezius</li>
