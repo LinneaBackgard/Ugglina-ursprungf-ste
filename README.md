@@ -25,7 +25,9 @@
 <li>Rhomboideii</li>
 <li>Trapezius</li>
 </ul>
-<h2 id="iliopsoas-funktioner">Iliopsoas</h2>
+<p></p>
+
+<h1 id="iliopsoas-funktioner">Iliopsoas</h1>
 <h3>Ursprung:</h3>
 <ul>
 <li>L1 -L4 - Psoas Major</li>
@@ -47,7 +49,8 @@
 <h3>Stretch liggandes p&aring; rygg</h3>
 <p><img src="http://www.healthymoves-pa.com/wp-content/uploads/2017/09/Hip-Flexor-stretch_supine-300x239.jpg" alt="Stretching iliopsaos lying on the back" /></p>
 <p>&nbsp;</p>
-<h2 id="latissimusdorsi-funktioner">Latissimus Dorsi</h2>
+<p></p>
+<h1 id="latissimusdorsi-funktioner">Latissimus Dorsi</h1>
 <h3>Ursprung</h3>
 <ul>
 <li>Fascia thoracolumbalis</li>
@@ -74,3 +77,6 @@
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92OcyOb2Ht3C1ko9PsYT_Tbx3_OiIRAOW1e_YOK6YfTybvhzy" alt="Latissimus dorsi stretch mot v&auml;gg" /></p>
 <h3>Stretch p&aring; golv mot stol</h3>
 <p><img src="https://i.pinimg.com/236x/20/72/df/2072df800a8c98c83c4cd3168dae942e--yoga-shoulder-shoulder-stretches.jpg?b=t" alt="Stretch p&aring; kn&auml; med armb&aring;gar p&aring; stol" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 id="pectoralismajor-funktioner">Pectoralis Major</h1>
