@@ -19,14 +19,13 @@
 <ul>
 <li>Iliopsoas <a href="#iliopsoas-funktioner"> - G&aring; till </a></li>
 <li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
-  <li>Pectoralis Major <a href="#pectoralismajor-funktioner"> - Gå till</a></li>
+<li>Pectoralis Major <a href="#pectoralismajor-funktioner">- G&aring; till</a></li>
 <li>Pectoralis Minor</li>
 <li>Levator Scapulae</li>
 <li>Rhomboideii</li>
 <li>Trapezius</li>
 </ul>
-<p></p>
-
+<p>&nbsp;</p>
 <h1 id="iliopsoas-funktioner">Iliopsoas</h1>
 <h3>Ursprung:</h3>
 <ul>
@@ -49,7 +48,7 @@
 <h3>Stretch liggandes p&aring; rygg</h3>
 <p><img src="http://www.healthymoves-pa.com/wp-content/uploads/2017/09/Hip-Flexor-stretch_supine-300x239.jpg" alt="Stretching iliopsaos lying on the back" /></p>
 <p>&nbsp;</p>
-<p></p>
+<p>&nbsp;</p>
 <h1 id="latissimusdorsi-funktioner">Latissimus Dorsi</h1>
 <h3>Ursprung</h3>
 <ul>
@@ -80,15 +79,39 @@
 <p>&nbsp;</p>
 <h1 id="pectoralismajor-funktioner">Pectoralis Major</h1>
 <h3>Ursprung:</h3>
-<ul><li>Clavicula - Claviculära delen
-  <li>Sternum och cartilago costalis costae 2-6 - Sternocostala delen
-    <li>Rectusskidan - Abdominala delen
-</ul></li>
-<h3>Fäste:</h3>
-<ul></li>Crista tuberculi majoris</ul></li>
+<ul>
+<li>Clavicula - Clavicul&auml;ra delen</li>
+<li>Sternum och cartilago costalis costae 2-6 - Sternocostala delen</li>
+<li>Rectusskidan - Abdominala delen</li>
+</ul>
+<h3>F&auml;ste:</h3>
+<ul>Crista tuberculi majoris</ul>
 <h3>Funktion:</h3>
-<ul><li>I axelleden - Flexion, inåtrotation, adduktion, horisontell adduktion</ul></li>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlicEbkzKi1VSa--kE4gR7CMyR2ldnjnazDAKJGO1yWqF-gbKS" alt="Pectoralis muskel">
-<h2> <a href="https://youtu.be/hfrUcSWD3Z8">Video Pectoralis Major</a></h3>
-<h3>Stretch mot vägg</h3>
-<img src="http://bazyd.com/wp-content/uploads/2018/05/v2-b79e93df3153733e9946d0b088891d97_hd.jpg" alt="Pectoralis stretch mot vägg"> 
+<ul>
+<li>I axelleden - Flexion, in&aring;trotation, adduktion, horisontell adduktion</li>
+</ul>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlicEbkzKi1VSa--kE4gR7CMyR2ldnjnazDAKJGO1yWqF-gbKS" alt="Pectoralis muskel" /></p>
+<h2><a href="https://youtu.be/hfrUcSWD3Z8">Video Pectoralis Major</a></h2>
+<h3>Stretch mot v&auml;gg</h3>
+<h2><img src="http://bazyd.com/wp-content/uploads/2018/05/v2-b79e93df3153733e9946d0b088891d97_hd.jpg" alt="Pectoralis stretch mot v&auml;gg" /></h2>
+<p></p>
+<p></p>
+<h1 id="pectoralisminor-funktioner">Pectoralis Minor</h1>
+<h3>Ursprung:</h3>
+<ul>
+<li>Costae 3-5</li>
+</ul>
+<h3>F&auml;ste:</h3>
+<ul>
+<li>Processus Coracoideus</li>
+</ul>
+<h3>Funktion:</h3>
+<ul><li>Depression av skuldergördeln
+  <li>Tippa scapulae anteriort
+    <li>Inåtrotation då skulderbladet rör sig framåt på bröstkorgsväggen
+  <li> (Vid fixerad scapula) Hjälper till vid inandning</ul></li>
+<h2> <a href="https://youtu.be/PV1LF9-6epQ">Video Pectoralis Minor</a></h2>
+
+<img src="http://3.bp.blogspot.com/-0nICW529Lts/U5eWE1ayjTI/AAAAAAACe1Q/AmsZOHuNynE/s1600/pectoralis-minor-2.jpg" alt="Pectoralis minor muskel
+   <p></p>                                                                                                 
+<h2> <a href="https://youtu.be/PV1LF9-6epQ">Video Pectoralis Minor</a></h2>
