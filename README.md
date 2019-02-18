@@ -79,3 +79,16 @@
 <p><img src="https://i.pinimg.com/236x/20/72/df/2072df800a8c98c83c4cd3168dae942e--yoga-shoulder-shoulder-stretches.jpg?b=t" alt="Stretch p&aring; kn&auml; med armb&aring;gar p&aring; stol" /></p>
 <p>&nbsp;</p>
 <h1 id="pectoralismajor-funktioner">Pectoralis Major</h1>
+<h3>Ursprung:</h3>
+<ul><li>Clavicula - Claviculära delen
+  <li>Sternum och cartilago costalis costae 2-6 - Sternocostala delen
+    <li>Rectusskidan - Abdominala delen
+</ul></li>
+<h3>Fäste:</h3>
+<ul></li>Crista tuberculi majoris</ul></li>
+<h3>Funktion:</h3>
+<ul><li>I axelleden - Flexion, inåtrotation, adduktion, horisontell adduktion</ul></li>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlicEbkzKi1VSa--kE4gR7CMyR2ldnjnazDAKJGO1yWqF-gbKS" alt="Pectoralis muskel">
+<h2> <a href="https://youtu.be/hfrUcSWD3Z8">Video Pectoralis Major</a></h3>
+<h3>Stretch mot vägg</h3>
+<img src="http://bazyd.com/wp-content/uploads/2018/05/v2-b79e93df3153733e9946d0b088891d97_hd.jpg" alt="Pectoralis stretch mot vägg"> 
