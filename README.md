@@ -78,5 +78,4 @@
 <h3>Stretch p&aring; golv mot stol</h3>
 <p><img src="https://i.pinimg.com/236x/20/72/df/2072df800a8c98c83c4cd3168dae942e--yoga-shoulder-shoulder-stretches.jpg?b=t" alt="Stretch p&aring; kn&auml; med armb&aring;gar p&aring; stol" /></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <h1 id="pectoralismajor-funktioner">Pectoralis Major</h1>
