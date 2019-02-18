@@ -17,8 +17,8 @@
 </ul>
 <h3>Mycket god kunskap</h3>
 <ul>
-<li>Iliopsoas <a href="iliopsoas-funktioner"> - G&aring; till </a></li>
-<li>Latissimus Dorsi <a href="latissimusdorsi-funktioner"> - G&aring; till</a></li>
+<li>Iliopsoas <a href="#iliopsoas-funktioner"> - G&aring; till </a></li>
+<li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
 <li>Pectoralis major</li>
 <li>Pectoralis minor</li>
 <li>Levator Scapulae</li>
