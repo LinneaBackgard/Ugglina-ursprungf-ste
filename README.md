@@ -113,5 +113,4 @@
 <h2> <a href="https://youtu.be/PV1LF9-6epQ">Video Pectoralis Minor</a></h2>
 
 <img src="http://3.bp.blogspot.com/-0nICW529Lts/U5eWE1ayjTI/AAAAAAACe1Q/AmsZOHuNynE/s1600/pectoralis-minor-2.jpg" alt="Pectoralis minor muskel
-   <p></p>                                                                                                 
-<h2> <a href="https://youtu.be/PV1LF9-6epQ">Video Pectoralis Minor</a></h2>
+   <p></p> 
