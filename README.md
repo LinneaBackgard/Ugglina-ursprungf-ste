@@ -1,2 +1,2 @@
-# Ugglina-ursprungf-ste
+# Ugglina-ursprung
 Anatomi - Ursprung, fäste funktion
