@@ -42,7 +42,7 @@
 <li>I l&auml;ndryggen - Lateralflexion, ventralflexion</li>
 </ul>
 <p><img src="https://www.semisportmed.com/wp-content/uploads/2018/10/56fc15a79c690.jpg" alt="liopsoas" /></p>
-<h2> <a href="https://youtu.be/cHWjpQ06-cE"> Video Iliopsoas</a></h2>
+<h2> <a target="_blank" href="https://youtu.be/cHWjpQ06-cE"> Video Iliopsoas</a></h2>
 <h3>Stretch p&aring; golv</h3>
 <p><img src="http://www.healthymoves-pa.com/wp-content/uploads/2017/09/Hip-Flexor-stretch-lunge-position-286x300.jpg" alt="Stretching iliopsoas on floor" /></p>
 <h3>Stretch liggandes p&aring; rygg</h3>
