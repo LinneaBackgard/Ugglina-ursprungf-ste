@@ -21,9 +21,9 @@
 <li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
 <li>Pectoralis Major <a href="#pectoralismajor-funktioner">- G&aring; till</a></li>
 <li>Pectoralis Minor <a href="#pectoralisminor-funktioner"> - Gå till</a></li>
-<li>Levator Scapulae</li>
-<li>Rhomboideii</li>
-<li>Trapezius</li>
+  <li>Levator Scapulae <a href="#levatorscapulae-funktioner"> - Gå till</a></li>
+  <li>Rhomboideii <a href="#rhomboideii-funktioner"> - Gå till</a></li>
+  <li>Trapezius <a href="#trapezius-funktioner"> - Gå till</a></li>
 </ul>
 <p>&nbsp;</p>
 <h1 id="iliopsoas-funktioner">Iliopsoas</h1>
@@ -114,3 +114,27 @@
 
 <img src="http://3.bp.blogspot.com/-0nICW529Lts/U5eWE1ayjTI/AAAAAAACe1Q/AmsZOHuNynE/s1600/pectoralis-minor-2.jpg" alt="Pectoralis minor muskel">
    <p></p> 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>Rhomboideii</h1>
+<p>&nbsp;</p>
+<h2>Rhomboideus minor</h2>
+<h3>Ursprung:</h3>
+<ul>
+<li>Processus Spinosus C6-C7</li>
+</ul>
+<h3>F&auml;ste:</h3>
+<ul>
+  <li>Margo medialis Scapulae</li></ul>
+<h3> Funktion:</h3>
+<ul><li>I halsryggraden: Kontralateral rotaion, lateralflexion, dorsalflexion</li>
+  <li>Av Scapulae (samma som major): Adduktion, elevation, inåtrotation</li></ul>
+<p>&nbsp;</p>
+<h2>Rhomboideus major</h2>
+<h3>Ursprung:</h3>
+<ul><li>Processus Spinosus Th1-Th4</ul></li>
+<h3>Fäste:</h3>
+<ul><li>Margo medialis Scapulae</li></ul>
+<h3>Funktion:</h3>
+<li><ul>Av Scapulae:Adduktion, elevation, inåtrotation</ul></li>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsl3yqGwlW91FqFFpaIbY7UJzDK7WuNSNWncqaVjbid8LN_Bn" alt="Rhomboideus minor muskel">
