@@ -155,5 +155,5 @@
 <h3>Fäste:</h3>
 <ul><li>Margo medialis Scapulae</li></ul>
 <h3>Funktion:</h3>
-<li><ul>Av Scapulae:Adduktion, elevation, inåtrotation</ul></li>
+<li><ul>Av Scapulae: Adduktion, elevation, inåtrotation</ul></li>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsl3yqGwlW91FqFFpaIbY7UJzDK7WuNSNWncqaVjbid8LN_Bn" alt="Rhomboideus minor muskel">
