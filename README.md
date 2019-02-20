@@ -17,13 +17,20 @@
 </ul>
 <h3>Mycket god kunskap</h3>
 <ul>
+<li>Erector Spinae <a href="#erectorspinae-funktioner"> - G&aring; till</a></li>
 <li>Iliopsoas <a href="#iliopsoas-funktioner"> - G&aring; till </a></li>
 <li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
+<li>Levator Scapulae <a href="#levatorscapulae-funktioner"> -G&aring; till </a></li>
+<li>Masseter <a href="#masseter-funktioner"> - G&aring; till</a></li>
+<li>Nackrosett (Suboccipitalis) <a href="nackrosett-funktioner"> - G&aring; till </a></li>
 <li>Pectoralis Major <a href="#pectoralismajor-funktioner">- G&aring; till</a></li>
-<li>Pectoralis Minor <a href="#pectoralisminor-funktioner"> - Gå till</a></li>
-  <li>Levator Scapulae <a href="#levatorscapulae-funktioner"> - Gå till</a></li>
-  <li>Rhomboideii <a href="#rhomboideii-funktioner"> - Gå till</a></li>
-  <li>Trapezius <a href="#trapezius-funktioner"> - Gå till</a></li>
+<li>Pectoralis Minor <a href="#pectoralisminor-funktioner"> - G&aring; till</a></li>
+<li>Pterygoideus Lateralis et Medialis <a href="#pterygoideus-funktioner"> - G&aring; till</a></li>
+<li>Rhomboideii <a href="#rhomboideii-funktioner"> - G&aring; till</a></li>
+<li>Scalenii <a href="#scalenii-funktioner"> G&aring; till </a></li>
+<li>Sternocleidomastoideus <a href="#sternocleidomastoideus-funktioner"> G&aring; till </a></li>
+<li>Temporalis <a href="#temporalis-funktioner"> G&aring; till </a></li>
+<li>Trapezius<a href="#trapezius-funktioner"> G&aring; till</a></li>
 </ul>
 <p>&nbsp;</p>
 <h1 id="iliopsoas-funktioner">Iliopsoas</h1>
@@ -94,8 +101,8 @@
 <h2><a href="https://youtu.be/hfrUcSWD3Z8">Video Pectoralis Major</a></h2>
 <h3>Stretch mot v&auml;gg</h3>
 <h2><img src="http://bazyd.com/wp-content/uploads/2018/05/v2-b79e93df3153733e9946d0b088891d97_hd.jpg" alt="Pectoralis stretch mot v&auml;gg" /></h2>
-<p></p>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h1 id="pectoralisminor-funktioner">Pectoralis Minor</h1>
 <h3>Ursprung:</h3>
 <ul>
@@ -106,16 +113,14 @@
 <li>Processus Coracoideus</li>
 </ul>
 <h3>Funktion:</h3>
-<ul><li>Depression av skuldergördeln
-  <li>Tippa scapulae anteriort
-    <li>Inåtrotation då skulderbladet rör sig framåt på bröstkorgsväggen
-  <li> (Vid fixerad scapula) Hjälper till vid inandning</ul></li>
-<h2> <a href="https://youtu.be/PV1LF9-6epQ">Video Pectoralis Minor</a></h2>
-
-<img src="http://3.bp.blogspot.com/-0nICW529Lts/U5eWE1ayjTI/AAAAAAACe1Q/AmsZOHuNynE/s1600/pectoralis-minor-2.jpg" alt="Pectoralis minor muskel">
-   <p></p> 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<ul>
+<li>Depression av skulderg&ouml;rdeln</li>
+<li>Tippa scapulae anteriort</li>
+<li>In&aring;trotation d&aring; skulderbladet r&ouml;r sig fram&aring;t p&aring; br&ouml;stkorgsv&auml;ggen</li>
+<li>(Vid fixerad scapula) Hj&auml;lper till vid inandning</li>
+</ul>
+<h2><a href="https://youtu.be/PV1LF9-6epQ">Video Pectoralis Minor</a></h2>
+<p><img src="http://3.bp.blogspot.com/-0nICW529Lts/U5eWE1ayjTI/AAAAAAACe1Q/AmsZOHuNynE/s1600/pectoralis-minor-2.jpg" alt="Pectoralis minor muskel" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1 id="levatorscapulae-funktioner">Levator Scapulae</h1>
@@ -135,7 +140,9 @@
 </ul>
 <h2><a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</a></h2>
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae" /></p>
-<h1 id="rhomboideii-funktioner">Rhomboideii</h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>Rhomboideii</h1>
 <p>&nbsp;</p>
 <h2>Rhomboideus minor</h2>
 <h3>Ursprung:</h3>
@@ -144,21 +151,65 @@
 </ul>
 <h3>F&auml;ste:</h3>
 <ul>
-  <li>Margo medialis Scapulae</li></ul>
-<h3> Funktion:</h3>
-<ul><li>I halsryggraden: Kontralateral rotaion, lateralflexion, dorsalflexion</li>
-  <li>Av Scapulae (samma som major): Adduktion, elevation, inåtrotation</li></ul>
+<li>Margo medialis Scapulae</li>
+</ul>
+<h3>Funktion:</h3>
+<ul>
+<li>I halsryggraden: Kontralateral rotaion, lateralflexion, dorsalflexion</li>
+<li>Av Scapulae (samma som major): Adduktion, elevation, in&aring;trotation</li>
+</ul>
 <p>&nbsp;</p>
 <h2>Rhomboideus major</h2>
 <h3>Ursprung:</h3>
-<ul><li>Processus Spinosus Th1-Th4</ul></li>
-<h3>Fäste:</h3>
-<ul><li>Margo medialis Scapulae</li></ul>
+<ul>
+<li>Processus Spinosus Th1-Th4</li>
+</ul>
+<h3>F&auml;ste:</h3>
+<ul>
+<li>Margo medialis Scapulae</li>
+</ul>
 <h3>Funktion:</h3>
-<li><ul>Av Scapulae: Adduktion, elevation, inåtrotation</ul></li>
-<p></p>
-<h2><a href="https://youtu.be/ca5j-33Bn6c">Video Rhomboideii</h2>
-  <p></p>
-
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsl3yqGwlW91FqFFpaIbY7UJzDK7WuNSNWncqaVjbid8LN_Bn" alt="Rhomboideus minor muskel">
+<ul>
+<li>
+<ul>Av Scapulae: Adduktion, elevation, in&aring;trotation</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h2><a href="https://youtu.be/ca5j-33Bn6c">Video Rhomboideii</a></h2>
+<p>&nbsp;</p>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsl3yqGwlW91FqFFpaIbY7UJzDK7WuNSNWncqaVjbid8LN_Bn" alt="Rhomboideus minor muskel" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 id="trapezius-funktioner">Trapezius</h1>
+<h3>Ursprung:</h3>
+<ul>
+<li>Protuberantia occipitalis externa</li>
+<li>Ligamentum Nuchae</li>
+<li>Processus Spinosus C1-C7</li>
+<li>Processus Spinosus Th1-12</li>
+</ul>
+<h3>F&auml;ste:</h3>
+<ul>
+<li>&Ouml;vre eller ned&aring;tg&aring;ende delen, pars descendens: Claviculas laterala del</li>
+<li>Mellersta eller tv&auml;rg&aring;ende delen, pars tranversus: Acromion</li>
+<li>Nedre eller upp&aring;tg&aring;ende delen:pars ascendens: Spina Scapulae</li>
+</ul>
+<h3>Funktion:</h3>
+<h4>Pars Descendens:</h4>
+<ul>
+<li>Av Scapulae: Elevation</li>
+<li>Av huvudet (vid fixerad skulderg&ouml;rdel): Kontralateral rotation, lateralflexion</li>
+</ul>
+<h4>Pars transversus:</h4>
+<ul>
+<li>Av Scapulae: Adduktion, in&aring;trotation</li>
+</ul>
+<h4>Pars ascendens:</h4>
+<ul>
+<li>Av Scapula: Depression, ut&aring;trotation</li>
+</ul>
+<h4>Bilateralt:</h4>
+<ul>
+<li>I nacke: Dorsalflektion</li>
+<li>I Br&ouml;stryggrad: Dorsalflektion</li>
+</ul>
