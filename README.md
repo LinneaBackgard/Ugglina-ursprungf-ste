@@ -33,6 +33,9 @@
 <li>Trapezius<a href="#trapezius-funktioner"> G&aring; till</a></li>
 </ul>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 id="erectorspinae-funktioner">Erector Spinae</h1>
+<p>&nbsp;</p>
 <h1 id="iliopsoas-funktioner">Iliopsoas</h1>
 <h3>Ursprung:</h3>
 <ul>
@@ -84,6 +87,27 @@
 <h3>Stretch p&aring; golv mot stol</h3>
 <p><img src="https://i.pinimg.com/236x/20/72/df/2072df800a8c98c83c4cd3168dae942e--yoga-shoulder-shoulder-stretches.jpg?b=t" alt="Stretch p&aring; kn&auml; med armb&aring;gar p&aring; stol" /></p>
 <p>&nbsp;</p>
+<h1 id="levatorscapulae-funktioner">Levator Scapulae</h1>
+<h3>Ursprung:</h3>
+<ul>
+<li>Processus Transversus C1-C4 (f&ouml;rsta, &ouml;vre delen av halsryggen)</li>
+</ul>
+<h3>F&auml;ste:</h3>
+<ul>
+<li>Angulus Superior Scapulae</li>
+</ul>
+<h3>Funktion:</h3>
+<ul>
+<li>Av Scapulae: Elevation, ut&aring;trotation</li>
+<li>Av huvudet: Lateralflexion, dorsalflexion</li>
+<li>Vid fixerad skulderg&ouml;rdel: Ipsilateral rotation av huvudet</li>
+</ul>
+<h2><a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</a></h2>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae" /></p>
+<p></p>
+<p></p>
+<h1 id="masseter-funktoner">Masseter</h1>
+<h1 id="nackrosett-funktioner">Nackrosett</h1>
 <h1 id="pectoralismajor-funktioner">Pectoralis Major</h1>
 <h3>Ursprung:</h3>
 <ul>
@@ -123,25 +147,6 @@
 <p><img src="http://3.bp.blogspot.com/-0nICW529Lts/U5eWE1ayjTI/AAAAAAACe1Q/AmsZOHuNynE/s1600/pectoralis-minor-2.jpg" alt="Pectoralis minor muskel" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h1 id="levatorscapulae-funktioner">Levator Scapulae</h1>
-<h3>Ursprung:</h3>
-<ul>
-<li>Processus Transversus C1-C4 (f&ouml;rsta, &ouml;vre delen av halsryggen)</li>
-</ul>
-<h3>F&auml;ste:</h3>
-<ul>
-<li>Angulus Superior Scapulae</li>
-</ul>
-<h3>Funktion:</h3>
-<ul>
-<li>Av Scapulae: Elevation, ut&aring;trotation</li>
-<li>Av huvudet: Lateralflexion, dorsalflexion</li>
-<li>Vid fixerad skulderg&ouml;rdel: Ipsilateral rotation av huvudet</li>
-</ul>
-<h2><a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</a></h2>
-<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h1>Rhomboideii</h1>
 <p>&nbsp;</p>
 <h2>Rhomboideus minor</h2>
@@ -178,6 +183,15 @@
 <h2><a href="https://youtu.be/ca5j-33Bn6c">Video Rhomboideii</a></h2>
 <p>&nbsp;</p>
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsl3yqGwlW91FqFFpaIbY7UJzDK7WuNSNWncqaVjbid8LN_Bn" alt="Rhomboideus minor muskel" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 id="scalenii-funktioner">Scalenii</h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 id="sternocleidomastoideus-funktioner">Sternocleidomastoideus</h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 id="temporalis-funktioner">Temporalis</h1>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1 id="trapezius-funktioner">Trapezius</h1>
