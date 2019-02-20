@@ -22,7 +22,7 @@
 <li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
 <li>Levator Scapulae <a href="#levatorscapulae-funktioner"> -G&aring; till </a></li>
 <li>Masseter <a href="#masseter-funktioner"> - G&aring; till</a></li>
-  <li>Nackrosett (Suboccipitalis) <a href="#nackrosett-funktioner> - Gå till</a>
+  <li>Nackrosett (Suboccipitalis) <a href="#nackrosett-funktioner> - Gå till</a></li>
 <li>Pectoralis Major <a href="#pectoralismajor-funktioner">- G&aring; till</a></li>
 <li>Pectoralis Minor <a href="#pectoralisminor-funktioner"> - G&aring; till</a></li>
 <li>Pterygoideus Lateralis et Medialis <a href="#pterygoideus-funktioner"> - G&aring; till</a></li>
