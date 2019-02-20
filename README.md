@@ -106,8 +106,8 @@
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae" /></p>
 <p></p>
 <p></p>
-<h1 id="masseter-funktoner">Masseter</h1>
-<h1 id="nackrosett-funktioner">Nackrosett</h1>
+<h1 id="masseter-funktioner">Masseter</h1>
+<h1 id="nackrosett-funktioner">Nackrosett (Suboccipitalis)</h1>
 <h1 id="pectoralismajor-funktioner">Pectoralis Major</h1>
 <h3>Ursprung:</h3>
 <ul>
